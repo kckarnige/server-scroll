@@ -1,7 +1,8 @@
+<img src="https://cdn.discordapp.com/attachments/755005710323941386/852919679916048434/unknown.png" width="50px" align="left">
+
 ### Server List Scrollbar - Discord Theme
 
 *I lost my mouse, so I made this :)*
-
 
 [<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
 
