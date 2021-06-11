@@ -1,0 +1,11 @@
+/* ==UserStyle==
+@name           Server List Scrollbar
+@namespace      https://github.com/kckarnige/server-scroll
+@version        1.0.0
+@description    A neat little Discord theme that a adds a scrollbar to the server list
+@author         KayoticCarnige
+==/UserStyle== */
+
+@-moz-document domain("discord.com") {
+    @import url('https://kckarnige.github.io/server-scroll/base.css');
+}
