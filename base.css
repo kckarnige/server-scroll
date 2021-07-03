@@ -1,0 +1,16 @@
+.none-2Eo-qx {
+    scrollbar-width: auto !important;
+    overflow: scroll !important;
+}
+
+.none-2Eo-qx::-webkit-scrollbar {
+    width: 0.4em !important;
+    border-radius: 25px;
+    height: 0px !important;
+    background: transparent !important;
+}
+
+.none-2Eo-qx::-webkit-scrollbar-thumb {
+    background: var(--background-accent);
+    border-radius: 25px;
+}
