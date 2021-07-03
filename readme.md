@@ -14,4 +14,4 @@
 
 Import CSS:
 
-```@import url('https://kckarnige.github.io/server-scroll/base.css');```
+```@import url('https://kckarnige.is-a.dev/server-scroll/base.css');```
