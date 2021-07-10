@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/755005710323941386/852919679916048434/unknown.png" width="50px" align="left">
+<img src="https://user-images.githubusercontent.com/32397453/125178189-50249300-e1b0-11eb-9e51-36ce53c7e73a.png" width="50px" align="left">
 
 ### Server List Scrollbar - Discord Theme
 
