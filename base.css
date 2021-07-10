@@ -1,13 +1,16 @@
 .none-2Eo-qx {
     scrollbar-width: auto !important;
-    overflow: scroll !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+    margin-right: 3px;
 }
 
-.none-2Eo-qx::-webkit-scrollbar {
-    width: 0.4em !important;
+.none-2Eo-qx:hover::-webkit-scrollbar {
+    width: 0.25em !important;
     border-radius: 25px;
     height: 0px !important;
     background: transparent !important;
+    
 }
 
 .none-2Eo-qx::-webkit-scrollbar-thumb {
