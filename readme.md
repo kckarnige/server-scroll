@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/32397453/125178189-50249300-e1b0-11eb-9e51-36ce53c7e73a.png" width="50px" align="left">
-
-### Server List Scrollbar - Discord Theme
+<img src="https://user-images.githubusercontent.com/32397453/134808359-c0a5dfba-a98b-4781-9cdc-a01a8a553a39.png" width="50px" align="left">
+Server List Scrollbar - Discord Theme
 
 *I lost my mouse, so I made this :)*
 
