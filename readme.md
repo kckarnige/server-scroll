@@ -1,7 +1,12 @@
-<img src="https://user-images.githubusercontent.com/32397453/134808359-c0a5dfba-a98b-4781-9cdc-a01a8a553a39.png" width="50px" align="left">
-Server List Scrollbar - Discord Theme
+<h3 align="center">Server List Scrollbar - Discord Theme</h3>
 
-*I lost my mouse, so I made this :)*
+
+<p align="center"><i>I lost my mouse, so I made this :)</i></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/32397453/134810493-16deb215-5d69-4745-8396-72168d1ee36a.png" width="620px">
+</p>
+
 
 [<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
 
