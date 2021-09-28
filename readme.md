@@ -4,7 +4,7 @@
 <p align="center"><i>I lost my mouse, so I made this :)</i></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/32397453/134810493-16deb215-5d69-4745-8396-72168d1ee36a.png" width="620px">
+<img src="https://user-images.githubusercontent.com/32397453/135127387-617377eb-1cd5-4903-9e25-6f4b8f2f36e5.png" width="620px">
 </p>
 
 
