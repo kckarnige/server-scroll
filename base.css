@@ -6,7 +6,7 @@
 }
 
 .none-2Eo-qx:hover::-webkit-scrollbar {
-    width: thin !important;
+    width: auto !important;
     border-radius: 25px;
     height: 0px !important;
     background: transparent !important;
