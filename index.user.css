@@ -7,5 +7,5 @@
 ==/UserStyle== */
 
 @-moz-document domain("discord.com"), domain("dev.fosscord.com") {
-    @import url('https://kckarnige.is-a.dev/server-scroll/base.css');
+    @import url('https://raw.githubusercontent.com/kckarnige/server-scroll/main/base.css');
 }

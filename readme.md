@@ -11,13 +11,9 @@
 If you want to add this to your theme, put this into your base CSS file:
 </p>
 <p align="center">
-<code>
-@import url('https://kckarnige.is-a.dev/server-scroll/base.css');
-</code>
+<code>@import url('https://raw.githubusercontent.com/kckarnige/server-scroll/main/base.css');</code>
 </p>
   
 [<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
 
 [<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/kckarnige/server-scroll/main/serverlistscroll.theme.css)
-
-<img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install: ```git clone https://github.com/kckarnige/server-scroll```

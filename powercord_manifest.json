@@ -1,8 +1,0 @@
-{
-    "name": "Server List Scrollbar",
-    "description": "A neat little Discord theme that a adds a scrollbar to the server list",
-    "version": "1.0.0",
-    "author": "KayoticCarnige",
-    "theme": "serverlistscroll.theme.css",
-    "license": "OSL-3.0"
-}
