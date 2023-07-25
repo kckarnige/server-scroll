@@ -11,7 +11,7 @@
 If you want to add this to your theme, put this into your base CSS file:
 </p>
 <p align="center">
-<code>@import url('https://raw.githubusercontent.com/kckarnige/server-scroll/main/base.css');</code>
+<code>@import url('https://raw.githack.com/kckarnige/server-scroll/main/base.css');</code>
 </p>
   
 [<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
