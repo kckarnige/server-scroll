@@ -1,11 +1,11 @@
-.none-1rXy4P {
+.none__51a8f {
     scrollbar-width: auto !important;
     overflow-y: scroll !important;
     overflow-x: hidden !important;
     margin-right: 2px;
 }
 
-.none-1rXy4P:hover::-webkit-scrollbar {
+.none__51a8f:hover::-webkit-scrollbar {
     width: 0.30em !important;
     border-radius: 25px;
     height: 0px !important;
@@ -13,7 +13,7 @@
     
 }
 
-.none-1rXy4P::-webkit-scrollbar-thumb {
+.none__51a8f::-webkit-scrollbar-thumb {
     background: var(--background-accent);
     border-radius: 25px;
 }
