@@ -1,19 +1,7 @@
-.none__51a8f {
-    scrollbar-width: auto !important;
-    overflow-y: scroll !important;
-    overflow-x: hidden !important;
-    margin-right: 2px;
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]:hover {
+    scrollbar-width: thin;
+    scrollbar-color: var(--scrollbar-thin-thumb) var(--scrollbar-thin-track);
 }
-
-.none__51a8f:hover::-webkit-scrollbar {
-    width: 0.30em !important;
-    border-radius: 25px;
-    height: 0px !important;
-    background: transparent !important;
-    
-}
-
-.none__51a8f::-webkit-scrollbar-thumb {
-    background: var(--background-accent);
-    border-radius: 25px;
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"] {
+    margin-right: -2px;
 }
