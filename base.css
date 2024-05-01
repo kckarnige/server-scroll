@@ -1,7 +1,15 @@
-nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]:hover {
-    scrollbar-width: thin;
-    scrollbar-color: var(--scrollbar-thin-thumb) var(--scrollbar-thin-track);
-}
 nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"] {
-    margin-right: -2px;
+    scrollbar-width: auto !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+}
+nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="none_"]::-webkit-scrollbar {
+    width: 0.30em !important;
+    border-radius: 25px;
+    height: 0px !important;
+    background: var(--scrollbar-thin-track) !important;
+}
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thin-thumb);
+    border-radius: 25px;
 }
