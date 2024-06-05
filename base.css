@@ -10,7 +10,7 @@ nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="none_"]::-webkit-scro
     background: var(--scrollbar-thin-track) !important;
 }
 nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]::-webkit-scrollbar-thumb {
-    background: var(--scrollbar-thin-thumb);
+    background: var(--background-modifier-selected);
     border-radius: 25px;
 }
 /* Should fix any weird shifting caused by plugins that add things to the sidebar, or mini */
