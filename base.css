@@ -1,19 +1,19 @@
-nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"] {
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="itemsContainer_"]>div[class*="none_"] {
     scrollbar-width: auto !important;
     overflow-y: scroll !important;
     overflow-x: hidden !important;
 }
-nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="none_"]::-webkit-scrollbar {
+nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="itemsContainer_"]>div[class*="none_"]::-webkit-scrollbar {
     width: 0.30em !important;
     border-radius: 25px;
     height: 0px !important;
     background: var(--scrollbar-thin-track) !important;
 }
-nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]::-webkit-scrollbar-thumb {
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="itemsContainer_"]>div[class*="none_"]::-webkit-scrollbar-thumb {
     background: var(--background-modifier-selected);
     border-radius: 25px;
 }
 /* Should fix any weird shifting caused by plugins that add things to the sidebar, or mini */
-nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="scroller_"]>:not(:has([class*="wrapper_"])){
+nav[class*="guilds_"]>ul[class*="tree_"]:hover>div[class*="itemsContainer_"]>div[class*="scroller_"]>:not(:has([class*="wrapper_"])){
     transform: translateX(0.14em);
 }
