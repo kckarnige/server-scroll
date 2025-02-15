@@ -1,0 +1,25 @@
+nav[class*="guilds_"] > ul[class*="tree_"] {
+    &:hover {
+        >div[class*="itemsContainer_"] {
+            >div[class*="none_"]::-webkit-scrollbar {
+                width: 0.30em !important;
+                border-radius: 25px;
+                height: 0px !important;
+                background: var(--scrollbar-thin-track) !important;
+            }
+            /* Should fix any weird shifting caused by plugins that add things to the sidebar, or mini */
+            >div[class*="scroller_"]>:not(:has([class*="wrapper_"])) {
+                transform: translateX(0.14em);
+            }
+        }
+    }
+    >div[class*="itemsContainer_"] > div[class*="none_"] {
+        scrollbar-width: auto !important;
+        overflow-y: scroll !important;
+        overflow-x: hidden !important;
+        &::-webkit-scrollbar-thumb {
+            background: var(--background-modifier-selected);
+            border-radius: 25px;
+        }
+    }
+}

@@ -21,9 +21,9 @@ And if you're using Vencord Web, add this link to your "Online Themes" page:
 <code>https://raw.githack.com/kckarnige/server-scroll/main/serverlistscroll.theme.css</code>
 </p>
   
-[<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
+<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> [Stylus Theme Install](https://github.com/kckarnige/server-scroll/raw/main/index.user.css)
 
-[<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://github.com/kckarnige/server-scroll/raw/main/serverlistscroll.theme.css) *(Ctrl + S)*
+<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> [BetterDiscord Theme Download](https://github.com/kckarnige/server-scroll/raw/main/serverlistscroll.theme.css) *(Ctrl + S)*
 
-[<img src="https://discord-extensions.github.io/assets/icons/vencord.gif" height="14px" width="14px"> Vencord Local Theme Download](https://github.com/kckarnige/server-scroll/raw/main/serverlistscroll.theme.css) *(Ctrl + S)*
+<img src="https://discord-extensions.github.io/assets/icons/vencord.gif" height="14px" width="14px"> [Vencord Local Theme Download](https://github.com/kckarnige/server-scroll/raw/main/serverlistscroll.theme.css) *(Ctrl + S)*
 
