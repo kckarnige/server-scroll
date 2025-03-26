@@ -14,6 +14,6 @@ nav[class*=guilds_] > ul[class*=tree_] > div[class*=itemsContainer_] > div[class
   overflow-x: hidden !important;
 }
 nav[class*=guilds_] > ul[class*=tree_] > div[class*=itemsContainer_] > div[class*=none_]::-webkit-scrollbar-thumb {
-  background: var(--background-modifier-selected);
+  background: var(--scrollbar-auto-scrollbar-color-thumb);
   border-radius: 25px;
 }/*# sourceMappingURL=serverListScrollbar.css.map */
