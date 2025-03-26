@@ -1,0 +1,23 @@
+{
+  "name": "replugged-serverlistscrollbar",
+  "version": "2.1.0",
+  "description": "None of this matters, this is just for building. This is straight from the template repo: replugged-org/theme-template",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "build": "replugged build theme",
+    "watch": "replugged build theme --watch",
+    "bundle": "replugged bundle theme",
+    "release": "replugged release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "prettier": "^3.3.2",
+    "replugged": "^4.8.1"
+  }
+}

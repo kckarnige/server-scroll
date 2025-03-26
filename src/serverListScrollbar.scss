@@ -7,8 +7,8 @@ nav[class*="guilds_"] > ul[class*="tree_"] {
                 height: 0px !important;
                 background: var(--scrollbar-thin-track) !important;
             }
-            /* Should fix any weird shifting caused by plugins that add things to the sidebar, or mini */
             >div[class*="scroller_"]>:not(:has([class*="wrapper_"])) {
+                /* Should fix any weird shifting caused by plugins that add things to the sidebar, or mini */
                 transform: translateX(0.14em);
             }
         }

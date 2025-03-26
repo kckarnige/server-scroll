@@ -1,0 +1,24 @@
+{
+  "id": "com.kckarnige.serverlistscrollbar",
+  "name": "Server List Scrollbar",
+  "description": "A neat little Discord theme that a adds a scrollbar to your server list.",
+  "author": [
+    {
+      "name": "KiCK",
+      "discordID": "634168893644210186",
+      "github": "kckarnige"
+    }
+  ],
+  "version": "2.1.0",
+  "updater": {
+    "type": "store",
+    "id": "com.kckarnige.serverlistscrollbar"
+  },
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "src/serverListScrollbar.min.css",
+  "source": "https://github.com/kckarnige/server-scroll",
+  "image": [
+    "https://i.imgur.com/bMe6VSj.png"
+  ]
+}
